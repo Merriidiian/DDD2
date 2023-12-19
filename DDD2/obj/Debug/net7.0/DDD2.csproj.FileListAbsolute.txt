@@ -1,0 +1,15 @@
+D:\C# projects\DDD2\DDD2\bin\Debug\net7.0\DDD2.exe
+D:\C# projects\DDD2\DDD2\bin\Debug\net7.0\DDD2.deps.json
+D:\C# projects\DDD2\DDD2\bin\Debug\net7.0\DDD2.runtimeconfig.json
+D:\C# projects\DDD2\DDD2\bin\Debug\net7.0\DDD2.dll
+D:\C# projects\DDD2\DDD2\bin\Debug\net7.0\DDD2.pdb
+D:\C# projects\DDD2\DDD2\obj\Debug\net7.0\DDD2.csproj.AssemblyReference.cache
+D:\C# projects\DDD2\DDD2\obj\Debug\net7.0\DDD2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\DDD2\DDD2\obj\Debug\net7.0\DDD2.AssemblyInfoInputs.cache
+D:\C# projects\DDD2\DDD2\obj\Debug\net7.0\DDD2.AssemblyInfo.cs
+D:\C# projects\DDD2\DDD2\obj\Debug\net7.0\DDD2.csproj.CoreCompileInputs.cache
+D:\C# projects\DDD2\DDD2\obj\Debug\net7.0\DDD2.dll
+D:\C# projects\DDD2\DDD2\obj\Debug\net7.0\refint\DDD2.dll
+D:\C# projects\DDD2\DDD2\obj\Debug\net7.0\DDD2.pdb
+D:\C# projects\DDD2\DDD2\obj\Debug\net7.0\DDD2.genruntimeconfig.cache
+D:\C# projects\DDD2\DDD2\obj\Debug\net7.0\ref\DDD2.dll
